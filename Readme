@@ -1,0 +1,15 @@
+So first thing’s first - install Docker according to your machine it is available for windows,mac,linux
+
+you may need to restart your pc to start docker
+
+Great! You can verify docker is ready by running the following commands in your terminal:
+  docker -v (shows version)
+  docker-compose -v.
+
+Then, run docker-compose up from the project(that you want to be working on) root directory to load it's files(say frontend,backend,other stuff).
+
+If Docker is working correctly, the backend,frontend should be running.
+
+That's it.
+
+It looks like your environment is ready! 😀
